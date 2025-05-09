@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+praw
+vaderSentiment
+alpaca-trade-api
+requests
+transformers
+torch>=1.13.1
+xgboost
+
