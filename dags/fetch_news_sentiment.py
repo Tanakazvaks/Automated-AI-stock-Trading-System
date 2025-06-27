@@ -8,7 +8,7 @@ from datetime import datetime
 sentiment_pipeline = pipeline("sentiment-analysis")
 
 # Your NewsAPI key
-NEWS_API_KEY = '03e1b31b60dc4353b324e4809ddafd1f'
+NEWS_API_KEY = ''
 
 
 def sentiment_to_score(label):
