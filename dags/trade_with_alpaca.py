@@ -13,8 +13,8 @@ input_csv = os.path.join(data_dir, "DIA_updated_strategy.csv")
 trade_log_csv = os.path.join(data_dir, "DIA_live_trade_log.csv")
 
 # Alpaca Paper Trading Credentials
-ALPACA_API_KEY = "PKLHOWJFZY8S0VEH2KF2"
-ALPACA_SECRET_KEY = "UCCw4rAGLfef2IBopUCo3QZGkDOV7XV7PZPYJfME"
+ALPACA_API_KEY = ""
+ALPACA_SECRET_KEY = ""
 BASE_URL = "https://paper-api.alpaca.markets"
 
 # Risk Management Parameters
