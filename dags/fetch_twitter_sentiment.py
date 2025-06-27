@@ -5,9 +5,9 @@ from datetime import datetime
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # Load Reddit API Credentials Securely
-REDDIT_CLIENT_ID = "xuygxhM2aBH9a8QjxfTNmg"
-REDDIT_CLIENT_SECRET = "Y2Ofpuy9xttVaFdJ79iUFx_84jpE6w"
-REDDIT_USER_AGENT = "Valuable-Roll-4067"
+REDDIT_CLIENT_ID = ""
+REDDIT_CLIENT_SECRET = ""
+REDDIT_USER_AGENT = ""
 
 # Initialize Reddit API
 reddit = praw.Reddit(client_id=REDDIT_CLIENT_ID,
