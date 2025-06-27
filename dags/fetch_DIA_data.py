@@ -4,8 +4,8 @@ import os
 from datetime import datetime, timedelta
 
 # Alpaca API credentials
-ALPACA_API_KEY = "PKLHOWJFZY8S0VEH2KF2"
-ALPACA_SECRET_KEY = "UCCw4rAGLfef2IBopUCo3QZGkDOV7XV7PZPYJfME"
+ALPACA_API_KEY = ""
+ALPACA_SECRET_KEY = ""
 BASE_URL = "https://paper-api.alpaca.markets"
 
 api = tradeapi.REST(
